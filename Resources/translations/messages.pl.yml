@@ -1,0 +1,4 @@
+error:
+    maxsize: Plik jest za duży
+    whitelist: Ten typ pliku jest niedozwolony
+    blacklist: Ten typ pliku jest niedozwolony
